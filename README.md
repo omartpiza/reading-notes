@@ -2,6 +2,7 @@
 -El **Growth Mindset** o la ***mentaliddad de Crecimiento*** es una perspectiva psicologica que se centran en la creencia de que las habiliadades y cualidades pueden desarrollarse a base de esfuerzo. 
 
   ##recordatorios para mantenerse con una **Growth Mindset**
+  
    1.***Abrazar los desafios***
     -Enfrenta desafíos como chances para crecer, no amenazas a tu habilidad.
     
