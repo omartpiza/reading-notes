@@ -1,1 +1,0 @@
-#Mentalidad de Crecimiento
