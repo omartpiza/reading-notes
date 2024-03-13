@@ -1,6 +1,6 @@
 # Editores de Texto vs Terminal
 - A continuación se muestran las principales preguntas de una colección de recursos que describen los temas de la conferencia.
-  ## Editores de texto basico frente al IDE **
+  ## Editores de texto basico frente al IDE
   
    1.***¿Cuáles son las cuatro características importantes que se deben buscar en un editor de texto?***
     - Autocompletar codigo.
