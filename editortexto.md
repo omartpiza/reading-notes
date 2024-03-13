@@ -10,15 +10,15 @@
       
    2.***¿Qué hacen los siguientes comandos?***
     - >pwd
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      - Este comando muestra la ruta completa del directorio en el que te encuentras actualmente. "pwd" significa "print working directory" en inglés.
     - >ls
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      - El comando "ls" lista los archivos y directorios en el directorio actual. Puedes usar diferentes opciones con "ls" para mostrar detalles adicionales, como permisos, propietario, tamaño, etc.
     - >cd
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      - Este comando se utiliza para cambiar de directorio. Por ejemplo, cd carpeta te llevaría al directorio llamado "carpeta". Si solo escribes cd, te llevará al directorio de inicio del usuario.
     - >mkdir
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      - Con este comando puedes crear un nuevo directorio. Por ejemplo, mkdir carpeta_nueva crearía un directorio llamado "carpeta_nueva" en el directorio actual.
     - >touch
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      -  El comando "touch" se utiliza para crear un nuevo archivo vacío. Por ejemplo, touch archivo.txt crearía un archivo de texto vacío llamado "archivo.txt" en el directorio actual. Si el archivo ya existe, "touch" actualizará su marca de tiempo, pero no modificará el contenido.
     
    4.***¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dadas a un comando).***
 
