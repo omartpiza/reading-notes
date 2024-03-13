@@ -43,6 +43,6 @@
 Omar Torbisco
 
 ### Creacion
-- Lunes 11 de marzo del 2024.
+- Lunes 13 de marzo del 2024.
 
 Enlace de este contenido [omartpiza-editor de texto](https://omartpiza.github.io/reading-notes/editortexto)
