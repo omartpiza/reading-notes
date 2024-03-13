@@ -3,9 +3,11 @@
   ## recordatorios para mantenerse con una **Growth Mindset**
   
    1.***¿Cuáles son las cuatro características importantes que se deben buscar en un editor de texto?***
-    - Enfrenta desafíos como chances para crecer, no amenazas a tu habilidad.
-    
-    
+    - Autocompletar codigo.
+    - Resaltado de sintaxis.
+    - Una buena variedad de temas para reducir la fatiga visual.
+    - la posibilidad de elegir entre una amplia selección de extensiones disponibles cuando las necesite.
+      
    2.***¿Qué hacen los siguientes comandos?***
     - >pwd
       - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
@@ -34,7 +36,7 @@
 ### Enlaces de Fuentes
 -  [Elejir editor de texto](https://entertechschool.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor-The-Older-Coder-es.pdf)
 - [La linea de comando](https://ryanstutorials.net/linuxtutorial/commandline.php)
-- [Navegacion basica](https://ryanstutorials.net/linuxtutorial/navigation.php))
+- [Navegacion basica](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [Acerca de archivos](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 ### Autor
