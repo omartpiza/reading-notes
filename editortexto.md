@@ -1,4 +1,4 @@
-# Markdown
+# Editores de Texto vs Terminal
 - A continuación se muestran las principales preguntas de una colección de recursos que describen los temas de la conferencia.
   ## recordatorios para mantenerse con una **Growth Mindset**
   
