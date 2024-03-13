@@ -45,4 +45,4 @@ Omar Torbisco
 ### Creacion
 - Lunes 11 de marzo del 2024.
 
-Enlace del creador de contenido [omartpiza](https://omartpiza.github.io/reading-notes/editortexto)
+Enlace de este contenido [omartpiza-editor de texto](https://omartpiza.github.io/reading-notes/editortexto)
