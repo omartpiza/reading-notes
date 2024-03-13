@@ -23,16 +23,16 @@
    4.***¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dadas a un comando).***
 
     - >cd projects
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      -  Este comando cambia el directorio actual al directorio "projects".
     - >mkdir new project
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      - Esto crea un nuevo directorio llamado "new-project" dentro del directorio "projects".
     - >touch new-project/newfile.md
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      - Este comando crea un nuevo archivo llamado "newfile.md" dentro del directorio "new-project". El archivo tendrá la extensión ".md", que comúnmente se usa para archivos de Markdown.
     - >cd ..
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+      - Regresa al directorio anterior, es decir, al directorio padre del directorio actual. Esto te llevará de vuelta al directorio anterior al directorio "projects".
     - >ls projects/new-project
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
-  
+      - Ahora, al ejecutar este comando, estás listando el contenido del directorio "new-project", que se encuentra dentro del directorio "projects". Dependiendo de lo que haya en "new-project", este comando mostrará los archivos y/o subdirectorios dentro de ese directorio.
+      - 
 ### Enlaces de Fuentes
 -  [Elejir editor de texto](https://entertechschool.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor-The-Older-Coder-es.pdf)
 - [La linea de comando](https://ryanstutorials.net/linuxtutorial/commandline.php)
