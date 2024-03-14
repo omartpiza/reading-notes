@@ -1,16 +1,16 @@
-# Growth Mindset
-- El **Growth Mindset** o la ***mentaliddad de Crecimiento*** es una perspectiva psicologica que se centran en la creencia de que las habiliadades y cualidades pueden desarrollarse a base de esfuerzo. 
+# reading-notes
 
-  ## recordatorios para mantenerse con una **Growth Mindset**
-  
-   1.***Abrazar los desafios***
-    - Enfrenta desafíos como chances para crecer, no amenazas a tu habilidad.
-    
-   2.***Ver el Fracaso como un paso al exito***
-    - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
-    
-   3.***Aprender de la Critica Constructiva***
-    - Valora la crítica constructiva; es una guía para mejorar, no una amenaza.
+## Hola Soy Omar Torbisco
+
+- Tengo una empresa dedicada al branding y publicidad sobre vidrios y paredes.
+- Trabajo como Asesor Back Office.
+- mi interés por insertarme en el mundo de la programación es para mi la oportunidad empezar un nuevo rumbo en mi vida profesional, ya que siempre fue de mi interés.
+- un dato curioso es que tengo conocimientos de Arquitectura e Ing. Civil.
+
+### En este Repositorio se encuentran
+
+1. [102](./102)
+2. [201](./201)
 
 ### Autor
 Omar Torbisco
