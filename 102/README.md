@@ -1,6 +1,6 @@
 # Lista de Contenido
 
- 1. [clase1](masterclass01.md)
+ 1. [clase1](./masterclass01.md)
  2. [clase2](masterclass02.md)
  3. [clase3](masterclass03.md)
  4. [clase4](masterclass04.md)
