@@ -38,4 +38,4 @@ Omar Torbisco: [omartpiza](https://github.com/omartpiza)`(GitHub)`
 ### Creacion
 - Lunes 18 de marzo del 2024.
 
-Enlace de este contenido [masterclass05](https://omartpiza.github.io/reading-notes/102/masterclass05)
+Enlace de este contenido [masterclass06](https://omartpiza.github.io/reading-notes/102/masterclass06)
