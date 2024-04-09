@@ -176,6 +176,15 @@ A continuación se muestran las principales preguntas de una colección de recur
 
   - [¿Que es JavaScript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
+## COSAS DE LAS QUE QUIERO SABER MAS
+
+* Me gustaria saber mas sobre :
+  - Responsive web disign, sitios que se adapten a diferentes dispositivos
+  - optimizacion de rendimiento, velicidad y eficiencia de sitios web
+  - seguridad web
+  - Bases de dato, SQL - NoSQL
+  - Arquitectura de aplicaciones web
+  - Pruebas y depuracion, problemas de aplicaciones web.
 
   ### Autor
   Omar Torbisco: [omartpiza](https://github.com/omartpiza)`(GitHub)`
