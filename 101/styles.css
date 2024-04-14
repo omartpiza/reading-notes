@@ -1,0 +1,31 @@
+header ul{
+        display: flex;
+        flex-direction: row;
+        border: 1px solid blue;
+        border-radius: 20px;
+        background-color: yellow;
+    }
+    ul li{
+        margin: 20px;
+        list-style: none;
+    }
+
+footer
+    .Social-Networks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    }
+    .Social-Networks a {
+        text-decoration: none;
+        border: 1px blue solid;
+        background-color: rgb(136, 255, 0);
+        margin: 20px;
+        border-radius: 5px;
+        padding: 10px;
+    }
+    img{
+        border-radius: 50%;
+        display: block;
+        margin: 0% auto;
+    }
