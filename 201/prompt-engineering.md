@@ -7,7 +7,7 @@ A continuación se muestran las principales preguntas de una colección de recur
   
 ***1.Confirma que tienes una cuenta activa de chatbot***
 
-![CHATBOT](/img/chatbot.jpeg)
+![chatbot](/img/chatbot.jpeg)
 
 ***2.Pídele al chatbot que explique un tema o algo relacionado con tu experiencia de trabajo previa y mira qué tan acertada es.***
 
@@ -42,11 +42,15 @@ Si estás interesado en una carrera como Asesor Back office de Validación de da
 
 #### Enlaces de Fuentes
 
-- [Introduccion a HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/es)
 
-- [Fundamentos de texto en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+- [Introduction](https://www.promptingguide.ai/introduction)
 
-- [Formateo de texto avanzado](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
+- [Basics of Prompting](https://www.promptingguide.ai/introduction/basics)
+
+- [Prompt Elements](https://www.promptingguide.ai/introduction/elements)
+
+- [General Tips for Designing Prompts](https://www.promptingguide.ai/introduction/tips)
 
 ## COSAS DE LAS QUE QUIERO SABER MAS
 
