@@ -21,7 +21,7 @@ A continuación se muestran las principales preguntas de una colección de recur
 
 - Utilizando CSS: Puedes cambiar el estilo de los números de la lista ordenada utilizando la propiedad `list-style-type`. Por ejemplo, puedes cambiar los números a letras, romanos, o incluso imágenes personalizadas.
 
-- Utilizando el atributo `type`: También puedes cambiar el tipo de numeración directamente en el HTML utilizando el atributo `type` en la etiqueta `<ol>`. Este atributo acepta diferentes valores, como `1` para números arábigos, `A` para letras mayúsculas, `a` para letras minúsculas, `I` para números romanos mayúsculos, `i` para números romanos minúsculos, entre otros. Por ejemplo:
+- Utilizando el atributo `type`: También puedes cambiar el tipo de numeración directamente en el HTML utilizando el atributo `type` en la etiqueta `<ol>`. Este atributo acepta diferentes valores, como `1` para números arábigos, `A` para letras mayúsculas, `a` para letras minúsculas, `I` para números romanos mayúsculos, `i` para números romanos minúsculos, entre otros.
   
 #### Enlaces de Fuentes
 
