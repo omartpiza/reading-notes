@@ -58,7 +58,7 @@ A continuación se muestran las principales preguntas de una colección de recur
 - Comparación entre Flexbox y otras técnicas de diseño, como Grid Layout o floats.
 - Problemas comunes y soluciones al trabajar con Flexbox.
 - Casos de uso avanzados de Flexbox para diseños complejos.
-- imitaciones y consideraciones al usar Flexbox en diferentes navegadores.
+- Limitaciones y consideraciones al usar Flexbox en diferentes navegadores.
 
 ### Autor
 
@@ -68,6 +68,6 @@ A continuación se muestran las principales preguntas de una colección de recur
 
 ### Creacion
 
-- Jueves 02 de AMayo del 2024.
+- Jueves 02 de Mayo del 2024.
 
 Enlace de este contenido [class-08](https://omartpiza.github.io/reading-notes/201/class-08)
