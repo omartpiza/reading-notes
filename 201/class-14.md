@@ -90,7 +90,7 @@ A continuación se muestran las principales preguntas de una colección de recur
     4. transition-delay: Retraso antes de empezar la animación.
 
         ```css
-        transition-delay: 0s;
+        transition-delay: 0s;git 
         ```
 
 ***2.¿En qué se diferencia un CSS animation de un CSS transition?***
